@@ -1,0 +1,3 @@
+module EmployeeWageInOops {
+	exports employeewage;
+}
